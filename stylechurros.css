@@ -1,0 +1,62 @@
+html{
+    background-color: rgb(235, 193, 187);
+}
+
+.titulo h1{
+
+background-color: rgb(90, 16, 16);
+text-align: center;
+border-radius: 15px;
+padding-top: 15px;
+padding-bottom: 10px;
+color: rgb(255, 255, 255);
+}
+
+.caracteristicas h2{
+text-align: center;
+}
+.caracteristicas p{
+text-align: center;
+color: rgb(0, 0, 0);
+font-weight: bold;
+
+}
+
+img{
+width: 600px;
+margin-left: 35%;
+}
+
+hr{
+border: 2px solid;
+border-color: crimson;
+}
+.ingredientes h3{
+text-align: center;
+font-size: 26px;
+color: rgb(192, 48, 48);
+}
+.ingredientes ul{
+margin-left: 40%;
+font-weight: bold;
+}
+
+.modoPreparo h3{
+text-align: center;
+font-size: 26px;
+color: rgb(134, 18, 18);
+}
+.modoPreparo ol{
+margin-left: 26%;
+font-weight: bold;
+}
+
+.link{
+    margin-left: 23%;
+    color: rgb(170, 81, 81);
+}
+
+a img{
+    width: 300px;
+    margin-left: 430px;
+}
